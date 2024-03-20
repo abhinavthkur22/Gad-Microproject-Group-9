@@ -1,6 +1,6 @@
 # 🛒 Group 9 Online Electronic Store Management System - GAD Microproject 🚀
 
-Welcome to Group 9's Online Electronic Store,  Our project aims to create a user-friendly online platform for purchasing electronic products.
+Welcome to Group 9's Online Electronic Store,  Our project aims to create a user-friendly online platform for Billing electronic products and Manage Sellers Inventory.
 
 ## Features
 
