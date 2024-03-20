@@ -1,4 +1,4 @@
-# 🛒 Group 9 Online Electronic Store - GAD Microproject 🚀
+# 🛒 Group 9 Online Electronic Store Management System - GAD Microproject 🚀
 
 Welcome to Group 9's Online Electronic Store, a microproject developed as part of the *Google Africa Developer Scholarship* (GADS) Program. Our project aims to create a user-friendly online platform for purchasing electronic products.
 
